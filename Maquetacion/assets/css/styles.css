@@ -132,3 +132,14 @@ body {
     background: #444;
     color: white;
 }
+
+.slider-small {
+    height: 150px !important;
+}
+
+.slider-small h1 {
+    margin: 0px;
+    padding: 0px;
+    padding-top: 53px !important;
+    text-align: center;
+}
